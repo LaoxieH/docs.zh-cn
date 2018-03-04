@@ -39,8 +39,8 @@ ms.lasthandoff: 12/23/2017
 ## <a name="word-choice"></a>选词  
  **✓ 执行**选择易读的标识符名称。  
   
- 例如，名为的属性`HorizontalAlignment`是英语-可读性比`AlignmentHorizontal`。  
-  
+ 例如，属性名`HorizontalAlignment`的英语可读性就比`AlignmentHorizontal`要高。
+  
  **✓ 执行**可读性比简洁性更。  
   
  属性名称`CanScrollHorizontally`优于`ScrollableX`（对 x 轴的晦涩引用）。  
